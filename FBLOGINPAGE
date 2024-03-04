@@ -1,0 +1,45 @@
+<html>
+    <head> <h1>facebook</h1>
+                <style>
+                   h1{
+                        color:blue;
+                        text-align:center;
+                    }
+                </style>
+
+            <title> Facebook Login Page</title>
+            </head>
+            <body>
+                <style>
+                    body{
+                        background-color: whitesmoke;
+                        text-align:center;
+                    }
+                </style>
+
+                <style>
+                    body{
+                        border-style: solid;
+                        border-width: 1px;
+                        
+                    }
+                </style>
+            
+            <form> 
+                    <div><input type="email" placeholder= "email or mobilenumber" required></div>
+
+                    <div><input type="password" placeholder="password" required></div>
+                   
+                    <input type="submit" ;value="Login";<button style="background-color: rgb(32, 223, 93)"</button>
+                    
+            </form>
+            </body>
+            </html>
+
+
+
+
+
+
+
+
